@@ -114,7 +114,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #EB3656;
+  border: 1px solid #25D366;
   padding: 0 30px;
   font-size: 16px;
   line-height: 48px;
@@ -126,7 +126,7 @@ p {
   -ms-transition: all 0.4s ease-out 0s;
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
-  background-color: #EB3656;
+  background-color: #25D366;
   -webkit-box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
   -moz-box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
   box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
